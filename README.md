@@ -41,15 +41,6 @@ Minha experiência abrange liderança técnica e aplicação de metodologias ág
 - **Scrum Foundation Certificate (SFC)**
 - **Certified Scrum Master (CSM)**
 
-## 🚀 Projetos em Destaque
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=AutoDocGen&theme=tokyonight)](https://github.com/wilvison/AutoDocGen)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=Ai-Generativa&theme=tokyonight)](https://github.com/wilvison/Ai-Generativa)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=automatic-code-doc&theme=tokyonight)](https://github.com/wilvison/automatic-code-doc)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=App-financas&theme=tokyonight)](https://github.com/wilvison/App-financas)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=EsporteWR&theme=tokyonight)](https://github.com/wilvison/EsporteWR)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=E-Books&theme=tokyonight)](https://github.com/wilvison/E-Books)
-
 ## 📈 Estatísticas no GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wilvison&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=wilvison&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false)

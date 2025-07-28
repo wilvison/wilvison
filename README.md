@@ -164,5 +164,5 @@ Nesta seção, apresento algumas das minhas publicações, nas quais abordo tema
 [![Instagram](https://img.shields.io/badge/Instagram-wr.insta-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/wr.insta)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5591982183205)
 [![Email](https://img.shields.io/badge/Email-wilvison@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:wilvison@gmail.com)
-[![site](https://img.shields.io/badge/Site-novag.com.br-h33836?style=for-the-badge&logo=site)](https://novag.com.br)
+[![Site](https://img.shields.io/badge/Site-novag.com.br-blue?style=for-the-badge&logo=php)](https://novag.com.br)
 

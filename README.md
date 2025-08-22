@@ -45,7 +45,6 @@ Minha experiência abrange liderança técnica e aplicação de metodologias ág
 
 ![wilvison's Stats](https://github-readme-stats.vercel.app/api?username=wilvison&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![wilvison's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilvison&theme=react&show_icons=true&hide_border=true&layout=compact)
-![Snake animation](https://github.com/thepiyushmalhotra/wilvison/blob/output/github-contribution-grid-snake.svg)
 
 ## 💼 Competências Profissionais
 

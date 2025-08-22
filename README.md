@@ -41,11 +41,6 @@ Minha experiência abrange liderança técnica e aplicação de metodologias ág
 - **Scrum Foundation Certificate (SFC)**
 - **Certified Scrum Master (CSM)**
 
-## 📈 Estatísticas no GitHub
-
-![wilvison's Stats](https://github-readme-stats.vercel.app/api?username=wilvison&theme=react&show_icons=true&hide_border=true&count_private=true)
-![wilvison's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilvison&theme=react&show_icons=true&hide_border=true&layout=compact)
-
 ## 💼 Competências Profissionais
 
 ### Habilidades de Gestão

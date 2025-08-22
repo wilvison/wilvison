@@ -43,7 +43,7 @@ Minha experiência abrange liderança técnica e aplicação de metodologias ág
 
 ## 📈 Estatísticas no GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wilvison&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=wilvison&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wilvison&theme=dark&show_icons=true&hide_border=true&count_private=true) ![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs?username=wilvison&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false](https://github-readme-stats.vercel.app/api/top-langs/?username=wilvison&theme=dark&show_icons=true&hide_border=true&layout=compact))
 
 ## 💼 Competências Profissionais
 

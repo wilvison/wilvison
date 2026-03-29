@@ -10,7 +10,7 @@
 
 ## 📊 Resumo Profissional
 
-Profissional com **15 anos de experiência** em tecnologia da informação, atualmente como **Analista de Sistemas na Atos** (trabalho remoto). Possuo formação sólida em Sistemas de Informação, com pós-graduações na área de tecnologia e atualmente cursando mestrado em Ciências da Computação na Universidade Federal do Pará.
+Profissional com **15 anos de experiência** em tecnologia da informação, atualmente como **Tech Lead na Qintess** (trabalho Hibrido). Possuo formação sólida em Sistemas de Informação, com pós-graduações na área de tecnologia e atualmente cursando mestrado em Ciências da Computação na Universidade Federal do Pará.
 
 Minha experiência abrange liderança técnica e aplicação de metodologias ágeis como Scrum Master, com perfil generalista que me permite atuar em diversas áreas de TI. Sou movido por desafios e pela paixão em resolver problemas complexos usando tecnologia.
 
@@ -18,6 +18,8 @@ Minha experiência abrange liderança técnica e aplicação de metodologias ág
 
 - **Mestrado em Ciências da Computação** (Em andamento)  
   *Universidade Federal do Pará*
+
+- **MBA em Gestão de Projetos e Metodologias Ágeis**
 
 - **MBA em Big Data e Inteligência na Gestão de Dados**
 

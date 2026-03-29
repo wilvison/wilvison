@@ -3,7 +3,7 @@
 ![Experience](https://img.shields.io/badge/Experiência-15%20Anos-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Disponível-brightgreen?style=for-the-badge)
 
-### Analista de Sistemas | Líder Técnico | Scrum Master | Educador
+### Líder Técnico | Scrum Master | Gestor
   
   *"Transformando desafios em soluções tecnológicas inovadoras"*
 
@@ -29,19 +29,28 @@ Minha experiência abrange liderança técnica e aplicação de metodologias ág
 
 ## 🏢 Experiência Profissional
 
-### Atos
-**Analista de Sistemas | Scrum Master | Líder Técnico**  
+### Qintess
+**Tech Lead | Gestor | Scrum Master**  
 
-> Principais responsabilidades:
-> - Liderança técnica de equipes de desenvolvimento
-> - Implementação e gestão de metodologias ágeis
-> - Gerenciamento de projetos de software
-> - Análise e desenvolvimento de sistemas
+> 𝐂𝐥𝐢𝐞𝐧𝐭𝐞: 𝐁𝐚𝐧𝐜𝐨 𝐝𝐚 𝐀𝐦𝐚𝐳𝐨𝐧𝐢𝐚 (𝐁𝐀𝐒𝐀):
+> - Como Tech Lead, atuo como referência técnica e estratégica em projetos voltados ao setor bancário, assegurando qualidade, alinhamento e eficiência nas entregas. Minhas principais responsabilidades incluem:
+> - Condução de entrevistas técnicas para seleção de profissionais qualificados, garantindo a formação de equipes de alta performance.
+> - Abertura e gestão de vagas conforme os perfis profissionais demandados pelo cliente.
+> - Apoio à gestão do contrato na criação e controle de OS, Relatórios, TRP e TRD.
+> - Acompanhamento dos times e colaboradores alocados no cliente, tanto presencialmente quanto remotamente.
+> - Suporte ao cliente na resolução de desafios técnicos e estratégicos, colaborando diretamente com as equipes para assegurar a continuidade e o sucesso dos projetos.
+> - Apoio aos times de todos os projetos, promovendo boas práticas, integração e alinhamento com os objetivos de negócio.
+> - Atuação em apoio à gestora do contrato, realizando interface direta com o cliente e nas atividades administrativas, assegurando conformidade contratual, cumprimento de prazos e excelência na prestação de serviços
 
 ## 🏆 Certificações
 
 - **Scrum Foundation Certificate (SFC)**
 - **Certified Scrum Master (CSM)**
+- **Certificação Google Project Management**
+- **Certificação Lean Seis Sigma White Belt**
+- **Certificação Lean Seis Sigma Yellow Belt**
+- **Certificação Lean Seis Sigma Green Belt**
+ 
 
 ## 💼 Competências Profissionais
 
